@@ -1,13 +1,13 @@
 # nodeunblocker.com
 
-All Links:
+# All Links:
 node-navy.vercel.app
 
 node-radioactivepotato.vercel.app
 
 node-git-main-radioactivepotato.vercel.app
 
-Evade internet censorship!
+# Evade internet censorship!
 
 The original nodeunblocker.com is gone, but it's now easier than ever to deploy your own copy.
 
