@@ -1,11 +1,13 @@
 # nodeunblocker.com
 
-# All Links:
-node-navy.vercel.app
+# Links
+https://node-navy.vercel.app/
 
-node-radioactivepotato.vercel.app
+https://node-radioactivepotato.vercel.app/
 
-node-git-main-radioactivepotato.vercel.app
+https://node-git-main-radioactivepotato.vercel.app/
+
+https://node-bf6dj6h9c-radioactivepotato.vercel.app/
 
 # Evade internet censorship!
 
@@ -52,9 +54,3 @@ The the core of the nodeunblocker.com has been extracted into a [standalone libr
 This project is released under the terms of the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.html).
 
 All source code is copyright [Nathan Friedly](http://nfriedly.com/).
-
-# Links
-https://node-navy.vercel.app/
-https://node-radioactivepotato.vercel.app/
-https://node-git-main-radioactivepotato.vercel.app/
-https://node-bf6dj6h9c-radioactivepotato.vercel.app/
